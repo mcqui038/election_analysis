@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elextions employee has given you the following tasks to complete with the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has given you the following tasks to complete with the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -28,5 +28,16 @@ The analysis of the election show that:
     - Diana DeGette, who recieved 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
+The election commission requested additional information from the election audit.
+
+1. The voter turnout for each county.
+2. The percentage of votes from each county out of the total count. 
+3. The county with the highest turnout.
 
 ## Challenge Summary
+Additional analysis of the election show that:
+- The voter turnout for each county was:
+
+- The percentage of votes for each county out of the total count were:
+
+- The county with the highest turnout was .
