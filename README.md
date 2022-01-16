@@ -37,7 +37,12 @@ The election commission requested additional information from the election audit
 ## Challenge Summary
 Additional analysis of the election show that:
 - The voter turnout for each county was:
-
+    - Jefferson: 38,855
+    - Denver: 306,055
+    - Arapahoe: 24,801
 - The percentage of votes for each county out of the total count were:
-
-- The county with the highest turnout was .
+    - Jefferson: 10.5%
+    - Denver: 82.8%
+    - Arapahoe: 6.7%
+- The county with the highest turnout was:
+    - Denver with 82.8% of the total vote and 306,055 voter turnout.
